@@ -11,6 +11,6 @@ deploy:
   bucket: deploy-weeia
   local-dir: Drozdz
   upload-dir: Drozdz
-  acl: ''
+  acl: private
   on:
     repo: pawdro13/AWS_CI
