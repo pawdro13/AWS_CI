@@ -1,0 +1,25 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pawdro13/AWS_CI.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "drozdzu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawdro13/AWS_CI/issues"
+  },
+  "homepage": "https://github.com/pawdro13/AWS_CI"
+}
