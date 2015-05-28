@@ -9,6 +9,6 @@ deploy:
     secure: u3xxX7gPL/4CdBK+bm5ZF3dJ964M4fPhKw9AUAHM8+D4DXMpdgq+ctR97LzMeo5XOVgQ2oI1vsqpoJpSDUj0rAaMhFacpBcla+FHAu7QBpExI9Vfh/5unxcMnw4ePF/bDsTEkUs0svHuRQMFzpl8RrnX3WfwYHDy6kyzDhv/wOBf9mHv/6RYFU4c/uG3RcENVUo/6tggFJLy9VXfgf4RYT44cFSICPtURSv7ll/QI0/Yzj9D3+Agke3Xj98QMv1T/nqrr1ZVDOWVL6GxnE4nbX8kSwIoHDYoKQYr1CMY3qMeRiR8i1ivBHmRzEEoYGytD0RDX5CYaWascZFvK545rBmXU+LHxiWzdz+k2QxTpKPybkgTc5Jk/ZrTzpL9K5lcfLy2z4wF0e1hC2nAUhQRm/uHPRsSfPqHy0mUuY8CAfDpk/BI5KZeyK7+iuLiaxaYI7XSK2QVzsuGItZaHWbA745q8uZhpDwJaId+6ZofQdYsVVsdodIHYwpcR/QzLeuRmydJ+DaStUNit5W/5ysA4FAiv9aKGYRzb1gwNJyp5AnJ4pk+dfGuDVt1tR5ktAUB/GLbi2dZwX2Xsw1U/r3EYaz3Ql1FlL5sLV1U9SjBkHkDRexkylAPuQcoG2qEIn9+bBVE8glAAK2EJNIDpi6U7IrytdzBz0YN0unra/lZOmc=
   bucket: deploy-weeia
   upload-dir: drozdz
-  acl: ''
+  acl: private
   on:
     repo: pawdro13/AWS_CI
